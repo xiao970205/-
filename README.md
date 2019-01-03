@@ -3,16 +3,16 @@
 
 ## 毕业实习手册  
 正在编写中，目前已完成到培训。
-<font color = "red">未签字</font>
+<font color = "red">未签字，正在等待审批</font>
 ## 毕业实习鉴定表 
 有几个地方不会写
-<font color = "red">未签字</font>
+<font color = "red">未签字，正在等待审批</font>
 ## 可视化成果
 <font color = "red">不知道是什么东西</font>
 ## 月报
 一直都在交 
 ## 照片
 本人照片 ，jpg 200w以上像素，实习公司logo前 
-<font color = "red">已获得</font>
+<font color = "red">已获得，已上传</font>
 ## 实习感受
-<font color = "red">已写完,但是并没有把照片添加到word中</font>
+<font color = "red">已写完</font>
